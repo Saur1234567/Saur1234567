@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurav+Kumar;Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;300%2B+DSA+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurav+Kumar;Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;450%2B+DSA+Problems+Solved+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -125,7 +125,7 @@ public class SauravKumar {
   </a>
 </p>
 
-> 🏆 **300+ DSA Problems Solved** across LeetCode, GFG, CodeStudio & InterviewBit
+> 🏆 **450+ DSA Problems Solved** across LeetCode, GFG, CodeStudio & InterviewBit
 >
 > 📚 Strong in: **Arrays · Strings · Linked Lists · Stacks · Queues · Trees · Recursion · Dynamic Programming**
 
